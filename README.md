@@ -1,2 +1,2 @@
-# FileReader
-A C++ library to read system files
+# SystemFileManager
+A C++ library to manage system files
